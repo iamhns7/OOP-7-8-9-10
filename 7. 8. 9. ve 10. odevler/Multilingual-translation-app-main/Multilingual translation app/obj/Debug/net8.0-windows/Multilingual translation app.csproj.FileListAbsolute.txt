@@ -1,0 +1,20 @@
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\bin\Debug\net8.0-windows\Multilingual translation app.exe
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\bin\Debug\net8.0-windows\Multilingual translation app.dll.config
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\bin\Debug\net8.0-windows\Multilingual translation app.deps.json
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\bin\Debug\net8.0-windows\Multilingual translation app.runtimeconfig.json
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\bin\Debug\net8.0-windows\Multilingual translation app.dll
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\bin\Debug\net8.0-windows\Multilingual translation app.pdb
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.csproj.AssemblyReference.cache
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual_translation_app.Form1.resources
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.csproj.GenerateResource.cache
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.AssemblyInfoInputs.cache
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.AssemblyInfo.cs
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.csproj.CoreCompileInputs.cache
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilin.04EF3715.Up2Date
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.dll
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\refint\Multilingual translation app.dll
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.pdb
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\Multilingual translation app.genruntimeconfig.cache
+C:\Users\amers\OneDrive\Desktop\8.Odev\Multilingual translation app\Multilingual translation app\obj\Debug\net8.0-windows\ref\Multilingual translation app.dll
